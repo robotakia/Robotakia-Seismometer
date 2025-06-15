@@ -39,8 +39,11 @@
 # Υλικά: 
 
 • 2x BBC Micro:bit V2 Board 
-• 1x Keyestudio Micro:bit Sensor Shield v2 
+
+• 1x Keyestudio Micro:bit Sensor Shield v2
+ 
 • 1x Servo Motor
+
 • 1x Μπαταριοθήκη 2xΑΑA με JST PH 
 
 # Μέλη ομάδας:  
